@@ -8,7 +8,7 @@ let gameState={
 	
 	polPower:0,
 	
-	primeMinister:"Morato",
+	primeMinister:"Virata",
 	
 	attemptedOuster:false,
 	budgetMaintained:false,
@@ -84,7 +84,7 @@ const story = {
 
 let currentScene = 'start';
 
-let sourceimgLeader = "https://media.discordapp.net/attachments/1018463369503715409/1402638666567909437/image.png?ex=68954d4d&is=6893fbcd&hm=b5abf0d3f6d06b9b619c87e6092d17a03d9bf9d9fd812376a6327daf91374073&=&format=webp&quality=lossless";
+let sourceimgLeader = "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F52b054fe-a5a3-11e6-8898-79a99e2a4de6?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1";
 
 
 function setCharacterImage(src) {
