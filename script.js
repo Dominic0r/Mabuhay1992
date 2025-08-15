@@ -76,6 +76,10 @@ const story = {
 	  {text: "3 days. I respect the man but... we have to distance ourselves from him somewhat. Plus, it'll be a hassle for Danding and his friends for operations to cease for an entire week...", feedback: "Cojuangco and cohorts begin planning their moves over the course of what is essentially just a slightly longer weekend", next:"Ques7", effect:()=> gameState.Oligarchs++}
 	  ]
   },
+  Ques7:{
+	  text:
+  }
+	
   
   
   
